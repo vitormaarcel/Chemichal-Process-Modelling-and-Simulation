@@ -1,2 +1,3 @@
-# Modelin-Simulations
-Some projects that I do related to modeling and simulation in Chemical Engineering problems
+# Modelin-Simulation
+
+This project is about a heat exchanger and the objective is to calculate the heat loss with and without a isolant layer.
