@@ -1,3 +1,3 @@
-# Heat Exchanger Simulation
+# Heat Exchange Simulation
 
-This project is about a heat exchanger and the objective is to calculate the heat loss with and without a isolant layer.
+This project is about a heat exchanger and the objective is to calculate the heat loss with and without an isolant layer. The program returns a graphic showing the final external temperature as a function of the width of the material.
