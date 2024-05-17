@@ -52,3 +52,7 @@ plt.plot()
 plt.xlabel('Target')
 plt.ylabel('Predict')
 plt.show()
+
+if __name__ == '__main__':
+  main()
+  
