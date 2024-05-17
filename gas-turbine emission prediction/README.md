@@ -1,3 +1,3 @@
 # CO and NOx Emission Prediction
 
-In this project the objective is to find a machine learning model that fits the best with the data to predict the emissions of a gas-turbine.
+The goal of this research is to identify the machine learning model that best fits the data in order to predict a gas turbine's emissions.
